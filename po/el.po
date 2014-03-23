@@ -1,0 +1,242 @@
+﻿# PDF-Slider Greek Translation.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PDF-Shuffler 0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-28 23:13+0200\n"
+"PO-Revision-Date: 2012-03-05 07:45+0100\n"
+"Last-Translator: Konstantinos Poulios <logari81@gmail.com>\n"
+"Language-Team: Konstantinos Poulios <poulios.konstantinos@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+
+#: pdfslider/pdfslider.py:110
+msgid "Can't load icon. Application is not installed correctly."
+msgstr "Αδυναμία φόρτωσης εικονιδίου. Η εφαρμογή δεν έχει εγκατασταθεί σωστά."
+
+#: pdfslider/pdfslider.py:233
+msgid "_Rotate Right"
+msgstr "Περιστροφή  _Δεξιά"
+
+#: pdfslider/pdfslider.py:234
+msgid "Rotate _Left"
+msgstr "Περιστροφή  _Αριστερά"
+
+#: pdfslider/pdfslider.py:235
+msgid "C_rop..."
+msgstr "_Περικοπή"
+
+#: pdfslider/pdfslider.py:237
+msgid "_Export selection..."
+msgstr "Εξαγωγή επιλεγμένων..."
+
+#: pdfslider/pdfslider.py:299
+msgid "No document"
+msgstr "Κανένα έγγραφο"
+
+#: pdfslider/pdfslider.py:301
+msgid "Several documents"
+msgstr "Διάφορα έγγραφα"
+
+#: pdfslider/pdfslider.py:317
+#, python-format
+msgid "Rendering thumbnails... [%(i1)s/%(i2)s]"
+msgstr "Απεικόνιση μικρογραφιών... [%(i1)s/%(i2)s]"
+
+#: pdfslider/pdfslider.py:435
+msgid "page"
+msgstr "σελίδα"
+
+#: pdfslider/pdfslider.py:461
+msgid "Export ..."
+msgstr "Εξαγωγή ..."
+
+#: pdfslider/pdfslider.py:470 pdfslider/pdfslider.py:586
+msgid "PDF files"
+msgstr "Αρχεία PDF"
+
+#: pdfslider/pdfslider.py:475 pdfslider/pdfslider.py:581
+msgid "All files"
+msgstr "Όλα τα αρχεία"
+
+#: pdfslider/pdfslider.py:518
+#, python-format
+msgid ""
+"File %s is encrypted.\n"
+"Support for encrypted files has not been implemented yet.\n"
+"File export failed."
+msgstr ""
+"Το αρχείο e %s είναι κρυπτογραφημένο.\n"
+"Η υποστήριξη για κρυπτογραφημένα αρχεία δεν έχει υλοποιηθεί ακόμα.Η εξαγωγή "
+"του αρχείου απέτυχε."
+
+#: pdfslider/pdfslider.py:571
+msgid "Import..."
+msgstr "Εισαγωγή ..."
+
+#: pdfslider/pdfslider.py:604
+msgid "OpenDocument not supported yet!"
+msgstr "Αρχεία τύπου OpenDocument δεν υποστηρίζονται!"
+
+#: pdfslider/pdfslider.py:606
+msgid "Image file not supported yet!"
+msgstr "Αρχεία εικόνων δεν υποστηρίζονται ακόμα!"
+
+#: pdfslider/pdfslider.py:608
+msgid "File type not supported!"
+msgstr "Αυτός ο τύπος αρχείου δεν υποστηρίζεται!"
+
+#: pdfslider/pdfslider.py:610
+#, python-format
+msgid "File %s does not exist"
+msgstr "Το αρχείο %s δεν υπάρχει"
+
+#: pdfslider/pdfslider.py:612
+msgid "Closed, no files selected"
+msgstr "Κλείσιμο χωρίς επιλογή αρχείου"
+
+#: pdfslider/pdfslider.py:921
+msgid "Left"
+msgstr "Αριστερά"
+
+#: pdfslider/pdfslider.py:921
+msgid "Right"
+msgstr "Δεξιά"
+
+#: pdfslider/pdfslider.py:922
+msgid "Top"
+msgstr "Πάνω"
+
+#: pdfslider/pdfslider.py:922
+msgid "Bottom"
+msgstr "Κάτω"
+
+#: pdfslider/pdfslider.py:940
+msgid "Crop Selected Pages"
+msgstr "Περικοπή επιλεγμένων σελίδων"
+
+#: pdfslider/pdfslider.py:948
+msgid "Crop Margins"
+msgstr "Αποκοπή περιθωρίων"
+
+#: pdfslider/pdfslider.py:955
+#, python-format
+msgid "% of width"
+msgstr "% του πλάτους"
+
+#: pdfslider/pdfslider.py:955
+#, python-format
+msgid "% of height"
+msgstr "% του ύψους"
+
+#: pdfslider/pdfslider.py:993
+msgid "Dialog closed"
+msgstr "Κλείσιμο διαλόγου"
+
+#: pdfslider/pdfslider.py:1007
+#, python-format
+msgid ""
+"%s is a tool for rearranging and modifying PDF files. Developed using GTK+ "
+"and Python"
+msgstr ""
+"Το %s είναι ένα εργαλείο για αναδιάταξη και τροποποίηση αρχείων PDF. Είναι "
+"γραμμένο σε GTK+ και Python"
+
+#: data/pdfslider.ui.h:1
+msgid "Crop"
+msgstr "Περικοπή"
+
+#: data/pdfslider.ui.h:2
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: data/pdfslider.ui.h:3
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: data/pdfslider.ui.h:4
+msgid "Open a file and append it to the current document"
+msgstr "Άνοιγμα ενός αρχείου και προσάρτηση στο τρέχον έγγραφο"
+
+#: data/pdfslider.ui.h:5
+msgid "Rotate left"
+msgstr "Περιστροφή  αριστερά"
+
+#: data/pdfslider.ui.h:6
+msgid "Rotate right"
+msgstr "Περιστροφή  δεξιά"
+
+#: data/pdfslider.ui.h:7
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: data/pdfslider.ui.h:8
+msgid "Save as"
+msgstr "Αποθήκευση ως"
+
+#: data/pdfslider.ui.h:9
+msgid "Zoom in"
+msgstr "Μεγέθυνση"
+
+#: data/pdfslider.ui.h:10
+msgid "Zoom out"
+msgstr "Σμίκρυνση"
+
+#: data/pdfslider.ui.h:11
+msgid "_Edit"
+msgstr "_Επεξεργασία"
+
+#: data/pdfslider.ui.h:12
+msgid "_File"
+msgstr "_Αρχείο"
+
+#: data/pdfslider.ui.h:13
+msgid "_Help"
+msgstr "_Βοήθεια"
+
+#: data/pdfslider.ui.h:14
+msgid "_View"
+msgstr "_Προβολή"
+
+#~ msgid "Import pdf"
+#~ msgstr "Εισαγωγή pdf"
+
+#~ msgid "Export pdf"
+#~ msgstr "Εξαγωγή pdf"
+
+#~ msgid "About"
+#~ msgstr "Περί"
+
+#~ msgid "Rotate Page(s) Clockwise"
+#~ msgstr "Περιστροφή σελίδας/ων ωρολογιακά"
+
+#~ msgid "Rotate Page(s) Counterclockwise"
+#~ msgstr "Περιστροφή σελίδας/ων αντιωρολογιακά"
+
+#~ msgid "Crop Page(s)"
+#~ msgstr "Περικοπή σελίδας/ων"
+
+#~ msgid "Error writing file: %s"
+#~ msgstr "Σφάλμα εγγραφής στο αρχείο: %s"
+
+#~ msgid "File %s is encrypted."
+#~ msgstr "Το αρχείο %s είναι κρυπτογραφημένο."
+
+#~ msgid "File export failed."
+#~ msgstr "Αποτυχία εξαγωγής αρχείου."
+
+#~ msgid "exporting to:"
+#~ msgstr "εξαγωγή:"
+
+#~ msgid ""
+#~ "PDF-Slider is a simple pyGTK utility which lets you merge, split and "
+#~ "rearrange PDF documents. You can also rotate and crop individual pages of "
+#~ "a pdf document."
+#~ msgstr ""
+#~ "Το PDF-Slider είναι μία απλή εφαρμογή pyGTK που σας επιτρέπει να "
+#~ "συνενώσετε, διαχωρίσετε και να αναδιατάξετε έγγραφα pdf. Επίσης μπορείτε "
+#~ "να περιστρέψετε και να περικόψετε τις σελίδες ενός εγγράφου pdf."
